@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="B1">B1.png</file>
+        <file alias="B2">B2.png</file>
+        <file alias="B3">B3.png</file>
+        <file alias="B4">B4.png</file>
+        <file alias="B5">B5.png</file>
+        <file alias="B6">B6.png</file>
+        <file alias="B7">B7.png</file>
+        <file alias="R1">R1.png</file>
+        <file alias="R2">R2.png</file>
+        <file alias="R3">R3.png</file>
+        <file alias="R4">R4.png</file>
+        <file alias="R5">R5.png</file>
+        <file alias="R6">R6.png</file>
+        <file alias="R7">R7.png</file>
+        <file alias="board">XiangqiDesktop.png</file>
+        <file alias="clear">clear.png</file>
+        <file alias="whosturn">pointer.png</file>
+    </qresource>
+</RCC>
